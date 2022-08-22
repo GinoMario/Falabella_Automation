@@ -1,2 +1,3 @@
-.idea
-extendReport
+.idea/
+extendReport/*
+target/

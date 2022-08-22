@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/java/features",
         glue = ("steps"),
-        tags =("@regression"),
+        tags =("@smokeTest"),
         plugin = {"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:extendReport/report.html"}
 )
 
