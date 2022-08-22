@@ -1,5 +1,0 @@
-runner/TestRunner.class
-steps/Hooks.class
-steps/IniciarSesionSteps.class
-pages/HomePage.class
-steps/TestBase.class

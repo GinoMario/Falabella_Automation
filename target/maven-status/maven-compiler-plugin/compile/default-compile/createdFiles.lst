@@ -1,7 +1,0 @@
-org/example/framework/base/BasePage.class
-org/example/framework/browserManager/DriverType.class
-org/example/framework/browserManager/FirefoxDriverManager.class
-org/example/framework/browserManager/DriverManagerFactory$1.class
-org/example/framework/browserManager/DriverManagerFactory.class
-org/example/framework/browserManager/ChromeDriverManager.class
-org/example/framework/browserManager/DriverManager.class
